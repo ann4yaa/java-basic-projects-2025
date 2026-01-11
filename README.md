@@ -1,4 +1,4 @@
-Java Basic Projects 2025
+**Java Basic Projects 2025**
 
 Repository ini berisi kumpulan project pembelajaran **Java dasar** yang dibuat sebagai tugas sekolah menggunakan **NetBeans IDE**.
 
